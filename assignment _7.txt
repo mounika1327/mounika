@@ -1,4 +1,4 @@
-
+vjkfbj,
     1  yum install httpd
     2  cd /var/www/html
     3  echo "hi this is mounika" > index.html
