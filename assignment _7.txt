@@ -1,0 +1,9 @@
+
+    1  yum install httpd
+    2  cd /var/www/html
+    3  echo "hi this is mounika" > index.html
+    4  ls
+    5  cat index.html
+    6  service httpd start
+    7  /bin/systemctl start httpd.service
+    8  history
